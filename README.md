@@ -152,14 +152,6 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 $ npm run dev
 ```
 
----
-
-## 📌 Future Features
-- Chat between Driver & Passenger
-- Payment Gateway Integration
-- Ratings & Reviews System
-
----
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
